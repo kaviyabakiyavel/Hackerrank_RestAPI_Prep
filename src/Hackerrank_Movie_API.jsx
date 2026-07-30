@@ -19,7 +19,9 @@ https://jsonmock.hackerrank.com/api/movies/search/?Title=spiderman&page=1
 
 4. Find the oldest released movie for a given title substring.
 
-5. Return all movie titles released after a specified year.
+5. Return all movie titles released ON specified year.
+ 
+6. Return all movie titles released after a specified year.
 
 6. Return all movie titles released before a specified year.
 
